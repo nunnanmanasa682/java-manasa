@@ -1,6 +1,6 @@
 class Ass6{
   public static void main(String[] args){
-     int num1 = 500, num2 = 2s00;
+     int num1 = 500, num2 = 2000;
      if (num1 == num2){
        System.out.println ("both are equal");
 	   }
